@@ -1,0 +1,5 @@
+./embedding/inprocess_terminal.py
+./embedding/internal_ipkernel.py
+./embedding/ipkernel_wxapp.py
+./embedding/ipkernel_qtapp.py
+./embedding/inprocess_qtconsole.py
